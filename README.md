@@ -38,7 +38,8 @@ Non-Programming Languages:
 - XML
 - Ok just kidding. Skip this part
 <img src="https://media.giphy.com/media/bYk7T8YGe6Mo0/giphy.gif" width="600" />
------
+
+-------
 
 Email: navid.naseri.079@gmail.com
 Instagram: @navid___naseri
