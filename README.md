@@ -41,7 +41,7 @@ Non-Programming Languages:
 
 -------
 
-Email: navid.naseri.079@gmail.com
-Instagram: @navid___naseri
-Twitter: @navid___naseri
+Email: navid.naseri.079@gmail.com  
+Instagram: @navid___naseri  
+Twitter: @navid___naseri  
 Telegram: @lnaxidl
