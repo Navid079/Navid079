@@ -11,7 +11,8 @@
 -----
 
 Welcome to my world!
-<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="100" />
+
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="600" />
 
 Interests:
 - My laptop
@@ -20,14 +21,14 @@ Interests:
 - Movie
 - Music
 - Coffee and Tea
-<img src="https://media.giphy.com/media/XEOdmFHVznCerkI6CI/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/XEOdmFHVznCerkI6CI/giphy.gif" width="600" />
 
 Programming Languages:
 - C
 - Java
 - Python
 - Javascript(Unfortunately)
-<img src="https://media.giphy.com/media/6yRVg0HWzgS88/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/6yRVg0HWzgS88/giphy.gif" width="600" />
 
 Non-Programming Languages:
 - HTML
@@ -36,7 +37,7 @@ Non-Programming Languages:
 - JSON
 - XML
 - Ok just kidding. Skip this part
-<img src="https://media.giphy.com/media/bYk7T8YGe6Mo0/giphy.gif" width="100" />
+<img src="https://media.giphy.com/media/bYk7T8YGe6Mo0/giphy.gif" width="600" />
 -----
 
 Email: navid.naseri.079@gmail.com
